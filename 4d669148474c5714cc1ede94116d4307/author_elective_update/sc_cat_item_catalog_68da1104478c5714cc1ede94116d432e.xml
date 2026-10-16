@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Travel Request">ec97d10c474c5714cc1ede94116d4303</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-15 16:00:14</sys_created_on>
+        <sys_id>68da1104478c5714cc1ede94116d432e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Travel Request</sys_name>
+        <sys_package display_value="Demo" source="x_2097143_demo">4d669148474c5714cc1ede94116d4307</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo">4d669148474c5714cc1ede94116d4307</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_68da1104478c5714cc1ede94116d432e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-15 16:00:14</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo_AES">4d669148474c5714cc1ede94116d4307</application>
+        <file_path/>
+        <instance_id>f490c492eb650b9456eafddacad0cd22</instance_id>
+        <instance_name>dev409398</instance_name>
+        <name>sc_cat_item_catalog_68da1104478c5714cc1ede94116d432e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Travel Request">ec97d10c474c5714cc1ede94116d4303</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-15 16:00:14</sys_created_on><sys_id>68da1104478c5714cc1ede94116d432e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Travel Request</sys_name><sys_package display_value="Demo" source="x_2097143_demo">4d669148474c5714cc1ede94116d4307</sys_package><sys_policy/><sys_scope display_value="Demo">4d669148474c5714cc1ede94116d4307</sys_scope><sys_update_name>sc_cat_item_catalog_68da1104478c5714cc1ede94116d432e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-15 16:00:14</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1316010130</payload_hash>
+        <record_name>Service Catalog.Travel Request</record_name>
+        <reverted_from/>
+        <source>91669148474c5714cc1ede94116d430e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-15 16:00:15</sys_created_on>
+        <sys_id>ecda1104478c5714cc1ede94116d434c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1404af0130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-15 16:00:15</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>a8da1104b48c57142b596bdb28d4384b</update_guid>
+        <update_guid_history>a8da1104b48c57142b596bdb28d4384b:-1316010130</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Travel Request">b1bbdd44478c5714cc1ede94116d4330</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-15 16:04:09</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>278c6b957f19438b8e94c828ada849c9</sys_id>
+        <sys_metadata>68da1104478c5714cc1ede94116d432e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Travel Request</sys_name>
+        <sys_package display_value="Demo_AES" source="x_2097143_demo">4d669148474c5714cc1ede94116d4307</sys_package>
+        <sys_parent display_value="Travel Request">ec97d10c474c5714cc1ede94116d4303</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo_AES">4d669148474c5714cc1ede94116d4307</sys_scope>
+        <sys_scope_delete display_value="">0d3316e40f9c4cc6a635572897f2c6a1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_68da1104478c5714cc1ede94116d432e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_68da1104478c5714cc1ede94116d432e">ecda1104478c5714cc1ede94116d434c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-15 16:04:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
