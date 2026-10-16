@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="99c65188474c5714cc1ede94116d432c" label="App demo" max_length="40" name="x_2097143_demo_app_demo" type="collection">
+        <element label="Assigned To" max_length="1024" name="assigned_to" reference="sys_user" type="glide_list"/>
+        <element label="Users Department" max_length="32" name="users_department" reference="cmn_department" type="reference"/>
+        <element label="My work" max_length="40" name="my_work" type="string"/>
+        <element label="Requested For?" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element label="Send Reminder" max_length="40" name="send_reminder" type="boolean"/>
+        <element choice="3" label="Travel Request Type" max_length="40" name="travel_request_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Self Travel" sequence="1" value="self_travel"/>
+                <element inactive_on_update="false" label="Corporate Travel" sequence="0" value="corporate_travel"/>
+                <element inactive_on_update="false" label="Client Travel" sequence="2" value="client_travel"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="requested_for"/>
+        </index>
+        <index name="index2">
+            <element name="users_department"/>
+        </index>
+    </element>
+</database>
