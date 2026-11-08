@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment">
+    <sn_pipeline_environment action="INSERT_OR_UPDATE">
+        <instance_credential display_value="x_2097143_demo.Instance_connection">14a589d8474cd714cc1ede94116d434e</instance_credential>
+        <instance_id>dev341337</instance_id>
+        <instance_type>test</instance_type>
+        <instance_url>https://dev341337.service-now.com</instance_url>
+        <is_controller>false</is_controller>
+        <name>demo</name>
+        <sys_class_name>sn_pipeline_environment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 09:08:51</sys_created_on>
+        <sys_id>f8148998474cd714cc1ede94116d43f3</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>demo</sys_name>
+        <sys_package display_value="Demo_AES" source="x_2097143_demo">4d669148474c5714cc1ede94116d4307</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo_AES">4d669148474c5714cc1ede94116d4307</sys_scope>
+        <sys_update_name>sn_pipeline_environment_f8148998474cd714cc1ede94116d43f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 09:29:37</sys_updated_on>
+    </sn_pipeline_environment>
+</record_update>
